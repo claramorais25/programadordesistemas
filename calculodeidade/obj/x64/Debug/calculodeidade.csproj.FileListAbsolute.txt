@@ -1,0 +1,10 @@
+C:\Users\maria.csmorais2\source\programadordesistemas\calculodeidade\bin\x64\Debug\calculodeidade.exe.config
+C:\Users\maria.csmorais2\source\programadordesistemas\calculodeidade\bin\x64\Debug\calculodeidade.exe
+C:\Users\maria.csmorais2\source\programadordesistemas\calculodeidade\bin\x64\Debug\calculodeidade.pdb
+C:\Users\maria.csmorais2\source\programadordesistemas\calculodeidade\obj\x64\Debug\calculodeidade.csproj.AssemblyReference.cache
+C:\Users\maria.csmorais2\source\programadordesistemas\calculodeidade\obj\x64\Debug\calculodeidade.Form1.resources
+C:\Users\maria.csmorais2\source\programadordesistemas\calculodeidade\obj\x64\Debug\calculodeidade.Properties.Resources.resources
+C:\Users\maria.csmorais2\source\programadordesistemas\calculodeidade\obj\x64\Debug\calculodeidade.csproj.GenerateResource.cache
+C:\Users\maria.csmorais2\source\programadordesistemas\calculodeidade\obj\x64\Debug\calculodeidade.csproj.CoreCompileInputs.cache
+C:\Users\maria.csmorais2\source\programadordesistemas\calculodeidade\obj\x64\Debug\calculodeidade.exe
+C:\Users\maria.csmorais2\source\programadordesistemas\calculodeidade\obj\x64\Debug\calculodeidade.pdb
