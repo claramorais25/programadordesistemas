@@ -1,0 +1,10 @@
+C:\Users\maria.csmorais2\source\programadordesistemas\arrayuinidiemencional-vetor\bin\x64\Debug\arrayuinidiemencional-vetor.exe.config
+C:\Users\maria.csmorais2\source\programadordesistemas\arrayuinidiemencional-vetor\bin\x64\Debug\arrayuinidiemencional-vetor.exe
+C:\Users\maria.csmorais2\source\programadordesistemas\arrayuinidiemencional-vetor\bin\x64\Debug\arrayuinidiemencional-vetor.pdb
+C:\Users\maria.csmorais2\source\programadordesistemas\arrayuinidiemencional-vetor\obj\x64\Debug\arrayuinidiemencional-vetor.csproj.AssemblyReference.cache
+C:\Users\maria.csmorais2\source\programadordesistemas\arrayuinidiemencional-vetor\obj\x64\Debug\arrayuinidiemencional_vetor.frmVetor.resources
+C:\Users\maria.csmorais2\source\programadordesistemas\arrayuinidiemencional-vetor\obj\x64\Debug\arrayuinidiemencional_vetor.Properties.Resources.resources
+C:\Users\maria.csmorais2\source\programadordesistemas\arrayuinidiemencional-vetor\obj\x64\Debug\arrayuinidiemencional-vetor.csproj.GenerateResource.cache
+C:\Users\maria.csmorais2\source\programadordesistemas\arrayuinidiemencional-vetor\obj\x64\Debug\arrayuinidiemencional-vetor.csproj.CoreCompileInputs.cache
+C:\Users\maria.csmorais2\source\programadordesistemas\arrayuinidiemencional-vetor\obj\x64\Debug\arrayuinidiemencional-vetor.exe
+C:\Users\maria.csmorais2\source\programadordesistemas\arrayuinidiemencional-vetor\obj\x64\Debug\arrayuinidiemencional-vetor.pdb
