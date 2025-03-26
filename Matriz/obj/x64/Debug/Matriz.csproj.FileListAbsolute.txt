@@ -1,0 +1,10 @@
+C:\Users\maria.csmorais2\source\programadordesistemas\Matriz\bin\x64\Debug\Matriz.exe.config
+C:\Users\maria.csmorais2\source\programadordesistemas\Matriz\bin\x64\Debug\Matriz.exe
+C:\Users\maria.csmorais2\source\programadordesistemas\Matriz\bin\x64\Debug\Matriz.pdb
+C:\Users\maria.csmorais2\source\programadordesistemas\Matriz\obj\x64\Debug\Matriz.csproj.AssemblyReference.cache
+C:\Users\maria.csmorais2\source\programadordesistemas\Matriz\obj\x64\Debug\Matriz.frmMatriz.resources
+C:\Users\maria.csmorais2\source\programadordesistemas\Matriz\obj\x64\Debug\Matriz.Properties.Resources.resources
+C:\Users\maria.csmorais2\source\programadordesistemas\Matriz\obj\x64\Debug\Matriz.csproj.GenerateResource.cache
+C:\Users\maria.csmorais2\source\programadordesistemas\Matriz\obj\x64\Debug\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\maria.csmorais2\source\programadordesistemas\Matriz\obj\x64\Debug\Matriz.exe
+C:\Users\maria.csmorais2\source\programadordesistemas\Matriz\obj\x64\Debug\Matriz.pdb
